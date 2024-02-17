@@ -327,3 +327,143 @@ margin-bottom: 50px;
     max-width: 100%;
     height: auto;
 }
+.section {
+    background-image: url(./image/IMAGE\ \(24\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 571px;
+}
+
+.geth2 {
+    font-family: Montserrat;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    position: relative;
+    bottom: -80px;
+
+}
+
+.gethr {
+    width: 80px;
+    height: 2px;
+    background: #00000017;
+    border: 1px solid #120c0c17;
+    border-radius: 1px;
+    position: relative;
+    bottom: -120px;
+}
+
+.getul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 200px;
+    text-align: center;
+    position: relative;
+    left: -20px;
+}
+
+.getul--li {
+    width: 170px;
+    height: 238px;
+    text-align: center;
+}
+
+.getul--li-h3 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.getul--li-p {
+    font-family: Vollkorn;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.fsection {
+    background-color: black;
+    height: 700px;
+    position: relative;
+    top: -20px;
+    text-align: center;
+}
+
+.footerinput {
+    width: 564px;
+    height: 57px;
+    background: #FFFFFF2E;
+    border: none;
+    font-family: Vollkorn;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: start;
+    border: 1px solid #404040;
+    position: relative;
+    bottom: -30px;
+
+
+
+}
+
+.footercom {
+    width: 564px;
+    height: 127px;
+    background: #FFFFFF2E;
+    border: none;
+    font-family: Vollkorn;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: start;
+    margin-top: 30px;
+
+
+
+}
+
+.footerbutton {
+    width: 210px;
+    height: 53px;
+    font-family: Vollkorn;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #8BCAC3;
+    background-color: black;
+    border: 1px solid #8BCAC3;
+    position: relative;
+    bottom: -50px;
+    right: -30px;
+   
+}
+.footerlogo{
+    position: relative;
+    bottom: -160px;
+    right:  100px;
+}
+.infop{
+    color: #404040;
+    position: relative;
+    bottom: -160px;
+}
